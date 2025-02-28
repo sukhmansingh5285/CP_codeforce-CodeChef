@@ -3,6 +3,7 @@ using namespace std;
 
 void solve()
 {
+
 }
 
 int main()
@@ -16,4 +17,5 @@ int main()
   {
     solve();
   }
+  return 0;
 }
